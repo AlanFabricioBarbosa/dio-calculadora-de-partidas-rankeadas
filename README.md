@@ -1,4 +1,4 @@
-# Classificador de Nivel do Héroi
+# Calculadora de partidas rankeadas
 
 Esse projeto faz parte do bootcamp GFT Start #6 - Lógica de Programação da DIO.
 
