@@ -12,8 +12,9 @@ Esse projeto faz parte do bootcamp GFT Start #6 - Lógica de Programação da DI
 
 Segue alguns projetos relacionados
 
-Desafio Classificador de Nivel do Héroi:
-https://github.com/AlanFabricioBarbosa/desafio-nivel-heroi-dio
+Desafio Classificador de Nivel do Héroi: https://github.com/AlanFabricioBarbosa/desafio-nivel-heroi-dio
+
+Desafop Classes de um jogo: https://github.com/AlanFabricioBarbosa/desafio-classes-de-um-jogo
 
 
 ## Screenshots
