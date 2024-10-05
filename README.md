@@ -14,7 +14,7 @@ Segue alguns projetos relacionados
 
 Desafio Classificador de Nivel do Héroi: https://github.com/AlanFabricioBarbosa/desafio-nivel-heroi-dio
 
-Desafop Classes de um jogo: https://github.com/AlanFabricioBarbosa/desafio-classes-de-um-jogo
+Desafio Classes de um jogo: https://github.com/AlanFabricioBarbosa/desafio-classes-de-um-jogo
 
 
 ## Screenshots
